@@ -1,0 +1,10 @@
+services:
+  postgres:
+    container_name: 'authproject-postgres-container'
+    image: 'postgres:16.2'
+    environment:
+      - 'POSTGRES_USER=myuser'
+      - 'POSTGRES_PASSWORD=secret'
+      - 'POSTGRES_DB=authprojectdb'
+    ports:
+      - '5432:5432'
