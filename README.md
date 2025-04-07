@@ -1,4 +1,4 @@
-# Spring Security JWT 🔐🚀
+# Auth API Spring Security 🔐🚀
 
 Bem-vindo, essa é uma aplicação de exemplo que demonstra como implementar autenticação e autorização utilizando **Spring Security** com **JWT (JSON Web Token)**. Este projeto exemplifica como integrar segurança em uma aplicação Spring Boot, fornecendo uma maneira robusta de proteger endpoints e autenticar usuários.
 
